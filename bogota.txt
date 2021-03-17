@@ -2,3 +2,4 @@ capital
 frio
 montañas
 lluvia local conlfict 
+lluvia fuerte conflict line
